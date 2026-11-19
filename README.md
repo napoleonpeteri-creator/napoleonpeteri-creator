@@ -24,8 +24,6 @@ I focus on *Cloud Infrastructure Administration, **Identity & Access Management 
 | *[AWS RDS Database Deployment Lab](https://github.com)* | Hardened managed relational database deployment with automated patching and high-availability configurations. | AWS RDS Cloud Infrastructure Database Admin |
 | *[Splunk Enterprise Admin & Monitoring Lab](https://github.com)* | End-to-end Splunk Heavy Forwarder setup, inputs.conf data onboarding, index/sourcetype verification, and custom dashboards. | Splunk Admin Linux Log Ingestion |
 
-(Tip: Add your **AWS S3 + CloudFront OAC* lab repository to this table once you push its README to GitHub!)*
-
 ---
 
 ###  Certifications & Training
